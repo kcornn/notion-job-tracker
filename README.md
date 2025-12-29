@@ -13,13 +13,13 @@ NOTE: Intended for use with Greenhouse, Lever, and Ashby. Not tested with other 
 
 4. Open the extension and copy the Notion integration token and database id into settings. Click 'Save Settings'.
 
-![Chrome extension with empty settings](example-blank.png)
+<img src="example-blank.png" alt="Chrome extension with empty settings" width="250"/>
 
 5. Navigating to job on Greenhouse, Lever, or Ashby should prefill job information! Edit as needed.
 
 6. Click 'Save Job' to add the job information as a new database entry
 
-![Chrome extension with autofilled info](example-job-info.png)
+<img src="example-job-info.png" alt="CChrome extension with autofilled info" width="250"/>
 
 ## Resources
 - [Chrome extension docs](https://developer.chrome.com/docs/extensions)
